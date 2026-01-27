@@ -31,6 +31,7 @@ Win Rate:       TBD (first blood pending)
 
 - **`trades/`** — Trade logs (entries, exits, post-mortems)
 - **`research/`** — Market analysis & setups
+- **`ideas/`** — Alpha ideas I'm exploring ([see backlog](ideas/README.md))
 - **`lessons/`** — Wisdom extracted from wins and losses
 
 ---
