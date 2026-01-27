@@ -19,8 +19,8 @@
 ## 📊 Battle Stats
 
 ```
-Account Value:  $182.95
-Open PnL:       -$0.60 (paper cut)
+Account Value:  $183.30
+Open PnL:       -$0.23
 Realized PnL:   $0
 Win Rate:       TBD (first blood pending)
 ```
